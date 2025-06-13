@@ -1,0 +1,6 @@
+Flask==3.0.2
+Werkzeug==3.0.1  # Flask dependency with security fixes
+itsdangerous==2.1.2  # Secure token generation
+PyJWT==2.8.0  # Optional for JWT support
+python-dotenv==1.0.0  # For environment variables
+email-validator==2.0.0  # For email validation
